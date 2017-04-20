@@ -1,19 +1,19 @@
 <svg height="254" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="254" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 15:21:23 +0000   441543 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 15:21:23 +0000     1082 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 15:21:23 +0000    10441 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 15:21:23 +0000    56939 bytes  docs/cordova-admob-plugin-video.jpg</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 15:21:23 +0000     1999 bytes  package.json</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 15:21:23 +0000     4143 bytes  plugin.xml</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 15:21:23 +0000    29374 bytes  src/android/AdMob.java</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 15:21:23 +0000     1859 bytes  src/ios/CDVAdMob.h</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 15:21:23 +0000    19776 bytes  src/ios/CDVAdMob.m</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 15:21:23 +0000    36408 bytes  src/wp8/AdMob.cs</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 15:21:23 +0000       46 bytes  test.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 15:21:23 +0000     3901 bytes  test/index.html</tspan>
-<tspan x="10" y="218"> 12.  2017-04-20 15:21:23 +0000   268381 bytes  test/jquery-1.9.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-20 15:21:23 +0000     7194 bytes  www/AdMob.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 15:22:24 +0000   441543 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 15:22:24 +0000     1082 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 15:22:24 +0000    10441 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 15:22:24 +0000    56939 bytes  docs/cordova-admob-plugin-video.jpg</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 15:22:24 +0000     1999 bytes  package.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 15:22:24 +0000     4143 bytes  plugin.xml</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 15:22:24 +0000    29374 bytes  src/android/AdMob.java</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 15:22:24 +0000     1859 bytes  src/ios/CDVAdMob.h</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 15:22:24 +0000    19776 bytes  src/ios/CDVAdMob.m</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 15:22:24 +0000    36408 bytes  src/wp8/AdMob.cs</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 15:22:24 +0000       46 bytes  test.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 15:22:24 +0000     3901 bytes  test/index.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 15:22:24 +0000   268381 bytes  test/jquery-1.9.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 15:22:24 +0000     7194 bytes  www/AdMob.js</tspan>
 </text>
 </svg>
